@@ -1,7 +1,7 @@
 # 🧑‍💻 Ethical Hacking 101: Beginners Guide to Ethical Hacking
 
 - verify Certificate : https://simpli-web.app.link/e/qbPqw3bor7b
-- 
+
 - Certificate Code: 9998001
 - **Date:** 24 March 2026  
 - **Issued by:** Simplilearn SkillUp  
